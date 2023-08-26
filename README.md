@@ -12,7 +12,7 @@ In cmd,type npm start
 
 
 
-Open students file in Intellij application
+Open students file in Intellij application(https://www.jetbrains.com/idea/)
 Click run 
 
 
